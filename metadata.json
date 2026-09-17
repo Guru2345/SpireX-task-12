@@ -1,0 +1,6 @@
+{
+  "name": "Shopping Cart",
+  "description": "Dynamic shopping cart application to browse products, manage quantities, apply discounts, and calculate order totals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
